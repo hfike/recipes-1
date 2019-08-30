@@ -61,6 +61,7 @@ PROD_DICT = {
         'id': 'MSau04',
         'path': '/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app'
     }
+    'Defender': {'id': 'WDAV00', 'path': '/Applications/Microsoft Defender ATP.app', 'minimum_os': '10.12'},
 }
 LOCALE_ID_INFO_URL = "https://msdn.microsoft.com/en-us/goglobal/bb964664.aspx"
 SUPPORTED_VERSIONS = ["latest", "latest-delta", "latest-standalone"]
